@@ -187,10 +187,10 @@
                 img.img-fluid(src='@/assets/curso/tema1/19.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
     
     .row.mb-5
-      .col-lg-4.order-lg-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/20.png", data-aos="zoom-in")
-      .col-lg-8.order-lg-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         p.mb-5(data-aos="fade-left") La aplicación práctica de la didáctica específica implica adaptar los métodos de enseñanza, según las características del área del conocimiento. Por ejemplo, si se desea transmitir un mensaje de forma más rápida, pueden utilizarse estrategias dinámicas, como el uso de cuentos, que faciliten la comprensión y el aprendizaje. Así, esta didáctica se convierte en una herramienta esencial para optimizar los procesos de enseñanza y aprendizaje (Gutiérrez, 2024).
     
         .bg-color-4.p-4(data-aos="fade-left")
@@ -234,7 +234,7 @@
     p.mb-4 Desde otra perspectiva Martos (2022), enfatiza el papel de la multidisciplinariedad, interdisciplinariedad y transversalidad en la educación:
     
     .bg-full-width.bg-color-9.mb-5
-      .px-4.px-md-5
+      .p-4.px-md-5
         .row.justify-content-center.align-items-center
           .col-lg-12
             .row.justify-content-center.align-items-center

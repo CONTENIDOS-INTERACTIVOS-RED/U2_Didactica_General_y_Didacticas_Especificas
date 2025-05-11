@@ -16,7 +16,7 @@
     p.mb-5 Se orienta al desarrollo integral: no solo se enseñan contenidos, sino que se favorece el crecimiento cognitivo, emocional, social y físico. El aprendizaje es activo y parte de la experiencia concreta del niño.
 
     .bg-full-width.bg-color-2.mb-5
-      .px-4.px-md-5
+      .p-4.px-md-5
         .row.justify-content-center.align-items-center
           .col-lg-12
             .row.justify-content-center.align-items-center
