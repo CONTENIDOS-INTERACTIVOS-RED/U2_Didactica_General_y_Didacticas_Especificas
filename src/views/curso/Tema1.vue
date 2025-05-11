@@ -171,16 +171,16 @@
                 p Uno de sus enfoques clave consiste en responder a preguntas fundamentales del proceso educativo: 
                 ul.lista-ul--color
                   li.d-flex
-                    i.far.fa-arrow-alt-circle-right.bg-color-9
+                    i.far.fa-arrow-alt-circle-right.bg-color-10
                     h5.mb-0 ¿Qué enseñar? 
                   li.d-flex
-                    i.far.fa-arrow-alt-circle-right.bg-color-9
+                    i.far.fa-arrow-alt-circle-right.bg-color-10
                     h5.mb-0 ¿Para qué enseñar? 
                   li.d-flex
-                    i.far.fa-arrow-alt-circle-right.bg-color-9
+                    i.far.fa-arrow-alt-circle-right.bg-color-10
                     h5.mb-0 ¿Cómo enseñar? 
                   li.d-flex
-                    i.far.fa-arrow-alt-circle-right.bg-color-9
+                    i.far.fa-arrow-alt-circle-right.bg-color-10
                     h5.mb-0 ¿Cómo evaluar? 
                 p Estas interrogantes permiten establecer diferencias metodológicas entre disciplinas, reconociendo que cada una requiere un enfoque propio basado en principios específicos.
               .col-lg-4(data-aos="zoom-in").order-1.mb-3.mb-lg-0
