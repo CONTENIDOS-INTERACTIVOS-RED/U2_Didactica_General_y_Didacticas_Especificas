@@ -111,9 +111,9 @@
       .p-4.p-md-5
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/9cqLwqWDCzs?si=F1b2M6SlLRnGqFf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/CKAvtc52RRI?si=E48ScmmsjnYaEw-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    .bg-full-width.bg-color-2.mb-lg-5
+    .bg-full-width.bg-color-2
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-3.mb-lg-0
