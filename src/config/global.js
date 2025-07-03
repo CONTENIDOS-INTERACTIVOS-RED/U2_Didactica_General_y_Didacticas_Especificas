@@ -92,11 +92,6 @@ export default {
     },
     {
       referencia:
-        'de Camilloni, A. R. W. (2022). Didáctica general y didácticas específicas. Editorial Palermo. ',
-      link: 'https://www.palermo.edu/ACI/trabajos/Alicia-Camilloni.pdf ',
-    },
-    {
-      referencia:
         'Gutiérrez, D, V. A. (2024). ¿Qué es Didáctica Específica? Didáctica Libre. ',
       link: 'https://didacticalibre.org/didactica-especifica/',
     },
@@ -137,39 +132,8 @@ export default {
     },
     {
       referencia:
-        'de Camilloni, A. R. W. (2022). Didáctica general y didácticas específicas. Editorial Palermo. ',
-      link: 'https://www.palermo.edu/ACI/trabajos/Alicia-Camilloni.pdf',
-    },
-    {
-      referencia:
-        'Hmelo-Silver, C. E. (2004). Problem-Based Learning: What and How Do Students Learn? Educational Psychology Review, 16(3), 23-266. ',
-      link: 'https://psycnet.apa.org/record/2004-16507-003',
-    },
-    {
-      referencia:
-        'de Camilloni, A. R. W. (2022). Didáctica general y didácticas específicas. Editorial Palermo. ',
-      link: 'https://www.palermo.edu/ACI/trabajos/Alicia-Camilloni.pdf',
-    },
-    {
-      referencia:
-        'Darling-Hammond, L. (2010). Creo en mí mismo para ayudar a los demás. Teachers College Press.1. ',
-      link:
-        'https://gradesfixer.com/free-essay-examples/believe-in-myself-to-help-others/',
-    },
-    {
-      referencia:
         'UNESCO. (2014). Enseñanza y aprendizaje: lograr la calidad para todos. Informe de seguimiento de la EPT en el mundo. Educación para todos.',
       link: 'https://unesdoc.unesco.org/ark:/48223/pf0000226159',
-    },
-    {
-      referencia:
-        'de Camilloni, A. R. W. (2022). Didáctica general y didácticas específicas. Editorial Palermo. ',
-      link: 'https://www.palermo.edu/ACI/trabajos/Alicia-Camilloni.pdf',
-    },
-    {
-      referencia:
-        'de Camilloni, A. R. W. (2022). Didáctica general y didácticas específicas. Editorial Palermo. ',
-      link: 'https://www.palermo.edu/ACI/trabajos/Alicia-Camilloni.pdf',
     },
     {
       referencia:
